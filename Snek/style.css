@@ -1,0 +1,18 @@
+.canvas {
+    /* position: absolute;
+    top:450px;
+    left: 250px;
+    align: center; */
+
+    top:450px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* .buttons {
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+} */
